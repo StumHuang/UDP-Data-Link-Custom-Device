@@ -2,9 +2,11 @@
 
 **UDP Data Link Custom Device** was built to extend VeriStand's communication abilities by providing the user with the ability to transmit and receive UDP packets.
 
+Note:IP must correcte set not localhost
+
 ### LabVIEW Version ###
 
-LabVIEW 2016
+LabVIEW 2024 X64
 
 ### Built Availability ###
 
